@@ -1,0 +1,19 @@
+.root {
+    -fx-background-color: #5DADE2;
+    -fx-font-size: 16px;
+
+}
+
+TextField {
+    -fx-text-fill: green;
+    -fx-border-radius: 4px;
+    -fx-font-size: 16px;
+    -fx-cursor: text;
+
+}
+
+.BLogin {
+    -fx-background-color: #000000;
+    -fx-text-fill: #A3E4D7;
+    -fx-font-size: 16px;
+}
